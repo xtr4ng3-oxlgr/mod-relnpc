@@ -1,0 +1,55 @@
+#
+# mod-relnpc configuration
+#
+
+[worldserver]
+
+#
+# RelNPC.Enable
+#   Enable or disable the module.
+#   Default: 1
+#
+RelNPC.Enable = 1
+
+#
+# RelNPC.Entry
+#   Creature entry used by the module.
+#   The creature_template ScriptName must be npc_relnpc.
+#   Default: 601900
+#
+RelNPC.Entry = 601900
+
+#
+# RelNPC.Announce
+#   Show module loaded message on player login.
+#   Default: 1
+#
+RelNPC.Announce = 1
+
+#
+# RelNPC.AllowInCombat
+#   Allow usage while in combat.
+#   Default: 0
+#
+RelNPC.AllowInCombat = 0
+
+#
+# RelNPC.EnableRepair
+#   Enable repair option.
+#   Default: 1
+#
+RelNPC.EnableRepair = 1
+
+#
+# RelNPC.EnableHeal
+#   Enable health/mana recovery option.
+#   Default: 1
+#
+RelNPC.EnableHeal = 1
+
+#
+# RelNPC.EnableRemoveSickness
+#   Enable resurrection sickness removal.
+#   Default: 1
+#
+RelNPC.EnableRemoveSickness = 1
