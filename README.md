@@ -41,7 +41,7 @@ Clone or copy the module into your AzerothCore modules directory:
 
 ```bash
 cd /home/azeroth/azerothcore-wotlk/modules
-git clone https://github.com/YOUR-USER/mod-relnpc.git
+git clone https://github.com/xtr4ng3-oxlgr/mod-relnpc.git
 ```
 
 Rebuild AzerothCore:
